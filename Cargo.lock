@@ -1,7 +1,8 @@
 [root]
-name = "koch"
+name = "learning_rust"
 version = "0.1.0"
 dependencies = [
+ "rand 0.3.18 (registry+https://github.com/rust-lang/crates.io-index)",
  "turtle 1.0.0-alpha.6 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
