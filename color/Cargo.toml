@@ -1,0 +1,10 @@
+[package]
+name = "color"
+version = "0.1.0"
+authors = ["Abdun Nihaal <nifey@users.noreply.github.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "nm_to_rgb"
+path = "src/nm_to_rgb.rs"
